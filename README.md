@@ -1,4 +1,18 @@
-# Online 3D Viewer
+# 鲁虺在线三维模型文件浏览器
+
+http://3dviewers.luhui.net
+
+# Deploy status badge 部署状态标识
+This image automatically updates to reflect the current state of your latest production deploy. 此映像会自动更新以反映最新生产部署的当前状态。
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d587b4a-0272-4111-bbf8-42002b88cef1/deploy-status)](https://app.netlify.com/sites/3dviewers/deploys)
+
+http://3dviewers.netlify.com
+
+http://3dviewers.netlify.app
+
+
+# luhui Online 3D Viewer
 
 [![Build status](https://ci.appveyor.com/api/projects/status/exypq43a8kjby5n0?svg=true)](https://ci.appveyor.com/project/kovacsv/online3dviewer)
 [![Build status](https://github.com/kovacsv/Online3DViewer/actions/workflows/build.yml/badge.svg)](https://github.com/kovacsv/Online3DViewer/actions/workflows/build.yml)
