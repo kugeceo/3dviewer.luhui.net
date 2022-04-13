@@ -1,7 +1,7 @@
 # 鲁虺在线三维模型文件查看器
 
 http://3dviewers.luhui.net
-A free and open source web solution to visualize and explore 3D models right in your browser.一个免费的开源网络解决方案，可直接在您的浏览器中可视化和探索 3D 模型。
+A free and open source web solution to visualize and explore 3D models right in your browser.一个免费的开源网络解决方案，可直接在您的浏览器中可视化查看 3D 模型。
 
 
 
@@ -39,12 +39,15 @@ The repository is separated into two parts. See more information in the [Develop
 * **Online 3D Viewer Website**: Source code of the web solution with all of the pages and functions.
 * **Online 3D Viewer Engine**: Source code of the library to visualize models easily.
 
-## Supported file formats
+## Supported file formats 支持的文件格式
+
+
 
 * **Import**: obj, 3ds, stl, ply, gltf, off, 3dm, fbx, dae, wrl, 3mf, stp, ifc.
 * **Export**: obj, stl, ply, gltf, off, 3dm.
 
-## Features
+## Features 特点介绍
+
 
 - Import model:
   - Select files from a file browser dialog.
@@ -65,6 +68,6 @@ The repository is separated into two parts. See more information in the [Develop
 - Export model to various format.
 - Embed viewer in your website.
 
-## External Libraries
+## External Libraries 扩展类库
 
 Online 3D Viewer uses these wonderful libraries: [three.js](https://github.com/mrdoob/three.js), [pickr](https://github.com/Simonwep/pickr), [fflate](https://github.com/101arrowz/fflate), [draco](https://github.com/google/draco), [rhino3dm](https://github.com/mcneel/rhino3dm), [web-ifc](https://github.com/tomvandig/web-ifc), [occt-import-js](https://github.com/kovacsv/occt-import-js).
