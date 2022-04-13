@@ -1,9 +1,12 @@
 # 鲁虺在线三维模型文件查看器
 
-http://3dviewers.luhui.net
+http://3dviewer.luhui.net
+
+
+http://3d.luhui.net
+
+
 A free and open source web solution to visualize and explore 3D models right in your browser.一个免费的开源网络解决方案，可直接在您的浏览器中可视化查看 3D 模型。
-
-
 
 
 # Deploy status badge 部署状态标识
@@ -19,17 +22,27 @@ http://3dviewers.netlify.app
 # luhui Online 3D Viewer
 
 [![Build status](https://ci.appveyor.com/api/projects/status/exypq43a8kjby5n0?svg=true)](https://ci.appveyor.com/project/kovacsv/online3dviewer)
-[![Build status](https://github.com/kovacsv/Online3DViewer/actions/workflows/build.yml/badge.svg)](https://github.com/kovacsv/Online3DViewer/actions/workflows/build.yml)
-[![DeepScan grade](https://deepscan.io/api/teams/16586/projects/19893/branches/524595/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=16586&pid=19893&bid=524595)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/kovacsv/Online3DViewer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kovacsv/Online3DViewer/context:javascript)
 
-Online 3D Viewer (https://3dviewer.net) is a free and open source web solution to visualize and explore 3D models right in your browser. This repository contains the source code of the website and the library behind it.在线3D浏览器（https://3dviewer.net）是一个免费和开源的网络解决方案，可以在你的浏览器中可视化和探索3D模型。这个资源库包含网站的源代码和它背后的库。
+[![Build status](https://github.com/kovacsv/Online3DViewer/actions/workflows/build.yml/badge.svg)]
+
+(https://github.com/kovacsv/Online3DViewer/actions/workflows/build.yml)
+
+[![DeepScan grade](https://deepscan.io/api/teams/16586/projects/19893/branches/524595/badge/grade.svg)]
+
+(https://deepscan.io/dashboard#view=project&tid=16586&pid=19893&bid=524595)
+
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/kovacsv/Online3DViewer.svg?logo=lgtm&logoWidth=18)]
+
+(https://lgtm.com/projects/g/kovacsv/Online3DViewer/context:javascript)
+
+
+luhui Online 3D Viewer (https://3dviewer.net) is a free and open source web solution to visualize and explore 3D models right in your browser. This repository contains the source code of the website and the library behind it.在线3D浏览器（https://3dviewer.net）是一个免费和开源的网络解决方案，可以在你的浏览器中可视化和探索3D模型。这个资源库包含网站的源代码和它背后的库。
 
 ## Example 例子
 
-![Start Page](assets/images/3dviewer_net_start_page.png?raw=true)
+![Start Page 开始页面](assets/images/3dviewer_net_start_page.png?raw=true)
 
-[Check the live version!](https://3dviewer.net/#model=https://raw.githubusercontent.com/kovacsv/Online3DViewer/dev/test/testfiles/gltf/DamagedHelmet/glTF-Binary/DamagedHelmet.glb)
+[Check the live version! 查看现场演示!](https://3dviewer.net/#model=https://raw.githubusercontent.com/kovacsv/Online3DViewer/dev/test/testfiles/gltf/DamagedHelmet/glTF-Binary/DamagedHelmet.glb)
 
 ## Documentation 文件编制
 
